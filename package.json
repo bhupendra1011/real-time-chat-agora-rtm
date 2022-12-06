@@ -12,7 +12,7 @@
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
     "@types/react-router-dom": "^5.1.5",
-    "agora-rtm-sdk": "^1.3.1",
+    "agora-rtm-sdk": "1.6.0-204",
     "bootstrap": "^4.5.2",
     "randomcolor": "^0.6.2",
     "react": "^16.13.1",

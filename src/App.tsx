@@ -6,7 +6,7 @@ import AgoraRTM from "agora-rtm-sdk";
 import { RtmClient } from "./types/AgoraRTMTypes";
 import { makeid } from "./helpers/randomId";
 
-const client = AgoraRTM.createInstance("YOUR-API-KEY");
+const client = AgoraRTM.createInstance("392bdd4cf5da44db84328a29d247b405");
 const randomUseName = makeid(5);
 function App() {
   const [textArea, setTextArea] = useState("");
